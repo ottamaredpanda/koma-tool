@@ -1,16 +1,34 @@
-# GitHub Pages
+# モヤっと言葉から考えるツール 💬
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
-Hey ottamaredpanda!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/ottamaredpanda/koma-tool/issues/1)
+このアプリは、職場や日常で「なんかモヤっとした」言葉に出会ったときに、
+自分の気持ちを整理したり、背景を考えたり、前向きなとらえ方を見つけるためのツールです。
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## 🔧 使い方
 
+1. モヤっとした言葉を選ぶ
+2. 「なぜそう感じたか」「背景にあるかもしれないこと」「とらえ方のヒント」を確認する
+3. 自分の中で受け止め方や配慮の言葉を整理する
+
+---
+
+## 🚫 注意
+
+- このツールは**診断・医療行為**ではありません。
+- 自己理解や伝え方のサポートを目的としています。
+
+---
+
+## 🛠 使用技術
+
+- Python
+- Streamlit
+
+---
+
+## 💡 今後のアイデア
+
+- 自由入力からの類似ケース検索
+- 「言われてショックだったこと」逆引きナビ
+- 自己紹介用の配慮リスト生成
